@@ -3,7 +3,7 @@
       <card-filter :initType="searchBox" :types="types" @filter="filter"></card-filter>
       <div class="landing" >
         <transition-group name="list" tag="div" class="tiles-flex">
-          <card-item @selectedCat="selectedCategory(info)"  v-for="info in filteredInfos" :info="info" :key="info"></card-item>
+          <card-item @selectedCat="selectedCategory(info)"  v-for="info in filteredInfos" :info="info" :key="`A-${info}`"></card-item>
         </transition-group>
       </div>
   </div>

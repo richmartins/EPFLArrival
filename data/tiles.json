@@ -1,228 +1,243 @@
 {
-  "infos":[
-    {
-      "title":"EPFL",
-      "desc_fr":"Site officiel de l'EPFL",
-      "desc_en":"Official EPFL website",
-      "link":"http://www.epfl.ch",
-      "tags":[
+  "infos": [{
+      "title": "EPFL",
+      "desc_fr": "Site officiel de l'EPFL",
+      "desc_en": "Official EPFL website",
+      "link": "http://www.epfl.ch",
+      "tags": [
         "epfl",
         "website"
       ],
-      "maincat":[
+      "maincat": [
         "others"
       ]
     },
     {
-      "title":"GO",
-      "desc_fr":"Service de raccourcissement d'URLs",
-      "desc_en":"URLs shortener service",
-      "link":"http://go.epfl.ch",
-      "tags":[
+      "title": "GO",
+      "desc_fr": "Service de raccourcissement d'URLs",
+      "desc_en": "URLs shortener service",
+      "link": "http://go.epfl.ch",
+      "tags": [
         "service",
         "url",
         "website",
         "go"
       ],
-      "maincat":[
+      "maincat": [
         "service",
         "communication"
       ]
     },
     {
-      "title":"IT",
-      "desc_en":"Main IT website",
-      "desc_fr":"Site IT principal",
-      "link":"http://it.epfl.ch",
-      "tags":[
+      "title": "IT",
+      "desc_fr": "Site IT principal",
+      "desc_en": "Main IT website",
+      "link": "http://it.epfl.ch",
+      "tags": [
         "IT",
         "website"
       ],
-      "maincat":[
+      "maincat": [
         "service",
         "communication"
       ]
     },
     {
-      "title":"EPNET",
-      "desc_en":"EPNET - EPFL Network",
-      "desc_fr":"EPNET - EPFL Network",
-      "link":"http://epnet.epfl.ch",
-      "tags":[
+      "title": "EPNET",
+      "desc_fr": "EPNET - EPFL Network",
+      "desc_en": "EPNET - EPFL Network",
+      "link": "http://epnet.epfl.ch",
+      "tags": [
         "service",
         "network",
         "réseau",
         "epnet"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"ACCRED",
-      "desc_fr":"Gestion des personnes et des unités EPFL et hors EPFL",
-      "desc_en":"Management of people and units inside and outside EPFL",
-      "link":"https://accred.epfl.ch",
-      "tags":[
+      "title": "ACCRED",
+      "desc_fr": "Gestion des personnes et des unités EPFL et hors EPFL",
+      "desc_en": "Management of people and units inside and outside EPFL",
+      "link": "https://accred.epfl.ch",
+      "tags": [
         "service",
         "accred",
         "identity"
       ],
-      "maincat":[
+      "maincat": [
         "identity"
       ]
     },
     {
-      "title":"Repro",
-      "desc_en":"Print center",
-      "desc_fr":"Centre d'impression",
-      "link":"http://repro.epfl.ch",
-      "tags":[
+      "title": "Repro",
+      "desc_en": "Print center",
+      "desc_fr": "Centre d'impression",
+      "link": "http://repro.epfl.ch",
+      "tags": [
         "repro",
         "service",
         "print",
         "impression"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"Camipro",
-      "desc_en":"Your multifunction campus card",
-      "desc_fr":"Votre carte multifonction sur le campus",
-      "link":"http://camipro.epfl.ch",
-      "tags":[
+      "title": "Camipro",
+      "desc_fr": "Votre carte multifonction sur le campus",
+      "desc_en": "Your multifunction campus card",
+      "link": "http://camipro.epfl.ch",
+      "tags": [
         "identity",
         "card",
         "camipro"
       ],
-      "maincat":[
+      "maincat": [
         "identity"
       ]
     },
     {
-      "title":"EWA",
-      "desc_en":"EPFL Web Mail",
-      "desc_fr":"EPFL Web Mail",
-      "link":"http://ewa.epfl.ch",
-      "tags":[
+      "title": "EWA",
+      "desc_fr": "EPFL Web Mail",
+      "desc_en": "EPFL Web Mail",
+      "link": "http://ewa.epfl.ch",
+      "tags": [
         "mail",
         "ewa",
         "email",
         "webmail"
       ],
-      "maincat":[
+      "maincat": [
         "communication"
       ]
     },
     {
-      "title":"NAS",
-      "desc_en":"File storage services",
-      "desc_fr":"Stockage des fichiers",
-      "link":"http://nas.epfl.ch",
-      "tags":[
+        "title":"Google Drive",
+        "desc_fr":"google drive de l'epfl",
+        "desc_en":"epfl google drive",
+        "link":"http://gdrive.epfl.ch",
+        "tags":[
+            "backup",
+            "nas",
+            "storage",
+            "share"
+        ],
+        "maincat":[
+            "backup",
+            "service"
+        ]
+    },
+    {
+      "title": "NAS",
+      "desc_fr": "Stockage des fichiers",
+      "desc_en": "File storage services",
+      "link": "http://nas.epfl.ch",
+      "tags": [
         "nas",
         "storage",
         "backup",
         "camipro"
       ],
-      "maincat":[
+      "maincat": [
         "backup"
       ]
     },
     {
-      "title":"Mailcleaner",
-      "desc_en":"Business anti spam gateway",
-      "desc_fr":"Filtrage antispam pour entreprises",
-      "link":"http://mailcleaner.epfl.ch",
-      "tags":[
+      "title": "Mailcleaner",
+      "desc_fr": "Filtrage antispam pour entreprises",
+      "desc_en": "Business anti spam gateway",
+      "link": "http://mailcleaner.epfl.ch",
+      "tags": [
         "mailcleaner",
         "spam",
         "antispam",
         "mail"
       ],
-      "maincat":[
+      "maincat": [
         "communication"
       ]
     },
     {
-      "title":"Gaspar",
-      "desc_en":"Password and authentication manager",
-      "desc_fr":"Guichet d'Accès Sécurisé aux Prestations et Autres Ressources",
-      "link":"https://gaspar.epfl.ch",
-      "tags":[
+      "title": "Gaspar",
+      "desc_fr": "Guichet d'Accès Sécurisé aux Prestations et Autres Ressources",
+      "desc_en": "Password and authentication manager",
+      "link": "https://gaspar.epfl.ch",
+      "tags": [
         "gaspar",
         "password",
         "auth",
         "mot-de-passe"
       ],
-      "maincat":[
+      "maincat": [
         "identity"
       ]
     },
     {
-      "title":"Poseidon",
-      "desc_en":"Troubleshooting and counseling service for private laptop",
-      "desc_fr":"Achat et support de laptops privés",
-      "link":"http://poseidon.epfl.ch",
-      "tags":[
+      "title": "Poseidon",
+      "desc_fr": "Achat et support de laptops privés",
+      "desc_en": "Troubleshooting and counseling service for private laptop",
+      "link": "http://poseidon.epfl.ch",
+      "tags": [
         "poseidon",
         "achat",
         "laptop",
         "help"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"VPN",
-      "desc_en":"Virtual Private Network",
-      "desc_fr":"Réseau privé virtuel",
-      "link":"https://vpn.epfl.ch",
-      "tags":[
+      "title": "VPN",
+      "desc_fr": "Réseau privé virtuel",
+      "desc_en": "Virtual Private Network",
+      "link": "https://vpn.epfl.ch",
+      "tags": [
         "vpn",
         "epnet"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"Tremplin",
-      "desc_en":"SSH gateway",
-      "desc_fr":"Passerelle SSH",
-      "link":"http://tremplin.epfl.ch/ssh.html",
-      "tags":[
+      "title": "Tremplin",
+      "desc_fr": "Passerelle SSH",
+      "desc_en": "SSH gateway",
+      "link": "http://tremplin.epfl.ch/ssh.html",
+      "tags": [
         "ssh",
         "tremplin",
         "epnet"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"DynDNS",
-      "desc_en":"Dynamic DNS",
-      "desc_fr":"DNS dynamique",
-      "link":"https://network.epfl.ch/epnet/dyndns.pl",
-      "tags":[
+      "title": "DynDNS",
+      "desc_fr": "DNS dynamique",
+      "desc_en": "Dynamic DNS",
+      "link": "https://network.epfl.ch/epnet/dyndns.pl",
+      "tags": [
         "epnet",
         "dyndns",
         "dns"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"rAuth",
-      "desc_en":"Registration Authority SwitchPKI@EPFL",
-      "desc_fr":"Autorité de Certification de l'EPFL",
-      "link":"http://rauth.epfl.ch",
-      "tags":[
+      "title": "rAuth",
+      "desc_fr": "Autorité de Certification de l'EPFL",
+      "desc_en": "Registration Authority SwitchPKI@EPFL",
+      "link": "http://rauth.epfl.ch",
+      "tags": [
         "epnet",
         "auth",
         "rauth",
@@ -230,44 +245,44 @@
         "pki",
         "switch"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"Doodle",
-      "desc_en":"Control of your appointments",
-      "desc_fr":"Outil de planification",
-      "link":"https://epfl.doodle.com",
-      "tags":[
+      "title": "Doodle",
+      "desc_fr": "Outil de planification",
+      "desc_en": "Control of your appointments",
+      "link": "https://epfl.doodle.com",
+      "tags": [
         "doodle"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"Infowww",
-      "desc_en":"Expense report",
-      "desc_fr":"Note de frais",
-      "link":"https://infowww.epfl.ch",
-      "tags":[
+      "title": "Infowww",
+      "desc_fr": "Note de frais",
+      "desc_en": "Expense report",
+      "link": "https://infowww.epfl.ch",
+      "tags": [
         "infowww",
         "note de frais",
         "expense report",
         "remboursement",
         "refund"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"Pocket Campus",
-      "desc_en":"Smartphone app EPFL",
-      "desc_fr":"Application pour smartphone EPFL",
-      "link":"http://pocketcampus.org/epfl-en/",
-      "tags":[
+      "title": "Pocket Campus",
+      "desc_fr": "Application pour smartphone EPFL",
+      "desc_en": "Smartphone app EPFL",
+      "link": "http://pocketcampus.org/epfl-en/",
+      "tags": [
         "pocketcampus",
         "pocket campus",
         "iphone",
@@ -278,46 +293,46 @@
         "GSM",
         "natel"
       ],
-      "maincat":[
+      "maincat": [
         "service"
       ]
     },
     {
-      "title":"1234",
-      "desc_fr":"Service Desk VPSI",
-      "desc_en":"Official Helpdesk VPSI",
-      "link":"http://1234.epfl.ch",
-      "tags":[
+      "title": "1234",
+      "desc_fr": "Service Desk VPSI",
+      "desc_en": "Official Helpdesk VPSI",
+      "link": "http://1234.epfl.ch",
+      "tags": [
         "VPSI",
         "helpdesk",
         "1234",
         "Service desk"
       ],
-      "maincat":[
+      "maincat": [
         "service"
-     ]
+      ]
     },
     {
-      "title":"SDF",
-      "desc_fr":"Students Development Factory",
-      "desc_en":"Students Development Factory",
-      "link":"http://studevf.epfl.ch",
-      "tags":[
+      "title": "SDF",
+      "desc_fr": "Students Development Factory",
+      "desc_en": "Students Development Factory",
+      "link": "http://studevf.epfl.ch",
+      "tags": [
         "sdf",
         "students",
         "development",
         "website"
       ],
-      "maincat":[
+      "maincat": [
         "others"
       ]
     },
     {
-      "title":"STI",
-      "desc_en":"School of Engineering",
-      "desc_fr":"Faculté Sciences et Technique de l'Ingénieur",
-      "link":"http://sti.epfl.ch",
-      "tags":[
+      "title": "STI",
+      "desc_fr": "Faculté Sciences et Technique de l'Ingénieur",
+      "desc_en": "School of Engineering",
+      "link": "http://sti.epfl.ch",
+      "tags": [
         "sti",
         "science",
         "technique",
@@ -328,16 +343,16 @@
         "faculté",
         "faculty"
       ],
-      "maincat":[
+      "maincat": [
         "others"
       ]
     },
     {
-      "title":"UC",
-      "desc_fr":"Communications Unifiées",
-      "desc_en":"Unified Communications",
-      "link":"http://uc.epfl.ch",
-      "tags":[
+      "title": "UC",
+      "desc_fr": "Communications Unifiées",
+      "desc_en": "Unified Communications",
+      "link": "http://uc.epfl.ch",
+      "tags": [
         "Communication",
         "Phone",
         "VoiceMail",
@@ -349,16 +364,16 @@
         "uc",
         "Unified Communications"
       ],
-      "maincat":[
+      "maincat": [
         "communication"
       ]
     },
     {
-      "title":"Gitlab",
-      "desc_fr":"Hébergement de dépôts GIT",
-      "desc_en":"GIT Repo Hosting",
-      "link":"https://gitlab.epfl.ch",
-      "tags":[
+      "title": "Gitlab",
+      "desc_fr": "Hébergement de dépôts GIT",
+      "desc_en": "GIT Repo Hosting",
+      "link": "https://gitlab.epfl.ch",
+      "tags": [
         "gitlab",
         "git",
         "versioning",
@@ -370,17 +385,17 @@
         "bazaar",
         "cvs"
       ],
-      "maincat":[
+      "maincat": [
         "backup",
         "service"
       ]
     },
     {
-      "title":"Jobs",
-      "desc_fr":"Les emplois à l'EPFL",
-      "desc_en":"The jobs at EPFL",
-      "link":"http://emploi.epfl.ch/en",
-      "tags":[
+      "title": "Jobs",
+      "desc_fr": "Les emplois à l'EPFL",
+      "desc_en": "The jobs at EPFL",
+      "link": "http://emploi.epfl.ch/en",
+      "tags": [
         "Emplois",
         "jobs",
         "Work",
@@ -391,99 +406,95 @@
         "Position",
         "Positions"
       ],
-      "maincat":[
+      "maincat": [
         "others"
       ]
-  },
-  {
-      "title":"Appuis Vaud famille",
-      "desc_fr":"Vaud famille appuis scolaire",
-      "desc_en":"Vaud famille school help",
-      "link":"http://www.vaudfamille.ch/N277233/app-app-appuis-scolaires-pour-apprentis..html",
-      "tags":[
-          "Appuis",
-          "help",
-          "apprentice",
-          "apprentis"
+    },
+    {
+      "title": "Formation-apprentis",
+      "desc_fr": "Formation apprentis",
+      "desc_en": "Apprentice school help",
+      "link": "http://formation-apprentis.ch/appui-apprentis.html",
+      "tags": [
+        "Appuis",
+        "help",
+        "apprentice",
+        "apprentis"
       ],
       "maincat": [
-          "apprentice"
+        "apprentice"
       ]
-  },
-  {
-      "title":"Appuis formation apprentis",
-      "desc_fr":"Formation apprentis",
-      "desc_en":"Apprentice training",
-      "link":"http://formation-apprentis.ch/appui-apprentis.html",
-      "tags":[
-          "Appuis",
-          "help",
-          "apprentice",
-          "apprentis"
+    },
+    {
+      "title": "Dactylo",
+      "desc_fr": "Cours de dactylographie",
+      "desc_en": "Typewriting online courses",
+      "link": "http://www.dactylocours.com/",
+      "tags": [
+        "Appuis",
+        "help",
+        "apprentice",
+        "apprentis"
       ],
       "maincat": [
-          "apprentice"
+        "apprentice"
       ]
-  },
-  {
-      "title":"Appuis EPCL",
-      "desc_fr":"Appuis EPCL",
-      "desc_en":"EPCL help for apprentice",
-      "link":"http://www.epcl.ch/spip.php?rubrique40",
-      "tags":[
-          "Appuis",
-          "help",
-          "apprentice",
-          "apprentis"
+    },
+    {
+      "title": "Quizlet",
+      "desc_fr": "apprendre des vocabulaires d'allemand",
+      "desc_en": "learn german vocabulary",
+      "link": "https://quizlet.com/",
+      "tags": [
+        "german",
+        "help",
+        "vocabulary"
       ],
       "maincat": [
-          "apprentice"
+        "apprentice"
       ]
-  },
-  {
-      "title":"Appuis kiftontaf",
-      "desc_fr":"Appuis Kiftontaf",
-      "desc_en":"Kiftontaf help for apprentice",
-      "link":"http://www.epcl.ch/spip.php?rubrique40",
-      "tags":[
-          "Appuis",
-          "help",
-          "apprentice",
-          "apprentis"
+    },
+    {
+      "title": "lacompta",
+      "desc_fr": "cours de comptabilité",
+      "desc_en": "accounting courses",
+      "link": "http://www.lacompta.ch",
+      "tags": [
+        "accouting",
+        "help"
       ],
       "maincat": [
-          "apprentice"
+        "apprentice"
       ]
-  },
-  {
-      "title":"Appuis CFPAE",
-      "desc_fr":"Appuis CFPAE",
-      "desc_en":"CFPAE help for apprentice",
-      "link":"www.cfpae.ch",
-      "tags":[
-          "Appuis",
-          "help",
-          "apprentice",
-          "apprentis"
+    },
+    {
+      "title": "sos-math",
+      "desc_fr": "aide en mathematique",
+      "desc_en": "mathematic help",
+      "link": "https://sos-maths.epfl.ch",
+      "tags": [
+        "math",
+        "help",
+        "sos"
       ],
       "maincat": [
-          "apprentice"
+        "apprentice",
+        "others"
       ]
-  },
-  {
-      "title":"Dactylo",
-      "desc_fr":"Cours de dactylographie",
-      "desc_en":"Typewriting online cours",
-      "link":"http://www.dactylocours.com/",
-      "tags":[
-          "Appuis",
-          "help",
-          "apprentice",
-          "apprentis"
+    }, {
+      "title": "Moneyfit",
+      "desc_fr": "apprends à gérer ton salaire",
+      "desc_en": "learn how to manage you salary",
+      "link": "https://moneyfit.postfinance.ch/fr/?WT.srch=1&WT.mc_id=GO_Search_PK_Edutainment2016Promo_FR_%2Bendettement%20%2Bjeunes",
+      "tags": [
+        "help",
+        "salary",
+        "manage"
       ],
       "maincat": [
-          "apprentice"
+        "apprentice",
+        "others"
       ]
-  }
+    }
   ]
 }
