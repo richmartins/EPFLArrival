@@ -174,6 +174,9 @@ export default {
 .tile-backup { /* blue for backup */
   border-top: 8px solid #cff;
 }
+.tile-apprentice{ /* blue for apprentice */
+  border-top: 8px solid #D2B48C;
+}
 
 .tile:hover {
   -webkit-transform: translate3d(0, -6px, 0);
@@ -284,6 +287,10 @@ export default {
 
 .check-backup { /* blue for backup */
   background-color: #cff;
+}
+
+.check-apprentice { /* blue for backup */
+  background-color: #D2B48C;
 }
 
 .squareCheck {

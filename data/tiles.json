@@ -394,6 +394,96 @@
       "maincat":[
         "others"
       ]
-    }
+  },
+  {
+      "title":"Appuis Vaud famille",
+      "desc_fr":"Vaud famille appuis scolaire",
+      "desc_en":"Vaud famille school help",
+      "link":"http://www.vaudfamille.ch/N277233/app-app-appuis-scolaires-pour-apprentis..html",
+      "tags":[
+          "Appuis",
+          "help",
+          "apprentice",
+          "apprentis"
+      ],
+      "maincat": [
+          "apprentice"
+      ]
+  },
+  {
+      "title":"Appuis formation apprentis",
+      "desc_fr":"Formation apprentis",
+      "desc_en":"Apprentice training",
+      "link":"http://formation-apprentis.ch/appui-apprentis.html",
+      "tags":[
+          "Appuis",
+          "help",
+          "apprentice",
+          "apprentis"
+      ],
+      "maincat": [
+          "apprentice"
+      ]
+  },
+  {
+      "title":"Appuis EPCL",
+      "desc_fr":"Appuis EPCL",
+      "desc_en":"EPCL help for apprentice",
+      "link":"http://www.epcl.ch/spip.php?rubrique40",
+      "tags":[
+          "Appuis",
+          "help",
+          "apprentice",
+          "apprentis"
+      ],
+      "maincat": [
+          "apprentice"
+      ]
+  },
+  {
+      "title":"Appuis kiftontaf",
+      "desc_fr":"Appuis Kiftontaf",
+      "desc_en":"Kiftontaf help for apprentice",
+      "link":"http://www.epcl.ch/spip.php?rubrique40",
+      "tags":[
+          "Appuis",
+          "help",
+          "apprentice",
+          "apprentis"
+      ],
+      "maincat": [
+          "apprentice"
+      ]
+  },
+  {
+      "title":"Appuis CFPAE",
+      "desc_fr":"Appuis CFPAE",
+      "desc_en":"CFPAE help for apprentice",
+      "link":"www.cfpae.ch",
+      "tags":[
+          "Appuis",
+          "help",
+          "apprentice",
+          "apprentis"
+      ],
+      "maincat": [
+          "apprentice"
+      ]
+  },
+  {
+      "title":"Dactylo",
+      "desc_fr":"Cours de dactylographie",
+      "desc_en":"Typewriting online cours",
+      "link":"http://www.dactylocours.com/",
+      "tags":[
+          "Appuis",
+          "help",
+          "apprentice",
+          "apprentis"
+      ],
+      "maincat": [
+          "apprentice"
+      ]
+  }
   ]
 }
